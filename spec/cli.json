@@ -1,0 +1,56 @@
+{
+  "commands": [
+    {
+      "name": "publish",
+      "options" : [
+        {
+          "name": "[options]",
+          "summary": "default options"
+        }
+      ],
+      "summary" : "publishes the current project as a package to the registry",
+      "help": ""
+    },
+    {
+      "name": "add",
+      "options" : [
+        {
+          "name": "<path>",
+          "summary": "relative path to a file or directory"
+        }
+      ],
+      "summary" : "whitelist files to include -- wip",
+      "help": ""
+    },
+    {
+      "name": "ignore",
+      "options" : [
+        {
+          "name": "<path>",
+          "summary": "relative path to a file or directory"
+        }
+      ],
+      "summary" : "ignore files or directories",
+      "help": ""
+    },
+    {
+      "name": "install",
+      "options" : [
+        {
+          "name": "[--save]",
+          "summary": "saves the package as a dependency to your dappfile"
+        },
+        {
+          "name": "[options]",
+          "summary": "default options"
+        },
+        {
+          "name": "[<package> <url-or-version>]",
+          "summary": "package name with specified url or version"
+        }
+      ],
+      "summary" : "install a package from dapphub or any other source",
+      "help": ""
+    }
+  ]
+}

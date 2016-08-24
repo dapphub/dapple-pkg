@@ -1,5 +1,6 @@
 {
-  "name": "dapple-pkg", "version": "0.0.2-dev",
+  "name": "dapple-pkg",
+  "version": "0.0.3-dev",
   "description": "Dapple packages module",
   "main": "lib/main.js",
   "scripts": {

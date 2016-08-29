@@ -1,6 +1,6 @@
 {
   "name": "dapple-pkg",
-  "version": "0.0.4-dev",
+  "version": "0.0.5-dev",
   "description": "Dapple packages module",
   "main": "lib/main.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "async": "^2.0.1",
     "bl": "^1.1.2",
     "dapphub": "0.0.7",
-    "dapple-core": "^0.1.5",
+    "dapple-core": "^0.1.7",
     "deasync": "^0.1.7",
     "fs-extra": "^0.30.0",
     "glob": "^7.0.5",

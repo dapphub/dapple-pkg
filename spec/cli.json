@@ -45,7 +45,7 @@
           "summary": "default options"
         },
         {
-          "name": "[<package> <url-or-version>]",
+          "name": "[<package> [<version>]]",
           "summary": "package name with specified url or version"
         }
       ],

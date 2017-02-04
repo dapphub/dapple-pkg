@@ -29,6 +29,7 @@
     "dapple-core": "^0.1.25",
     "deasync": "^0.1.7",
     "ethpm": "0.0.3",
+    "ethpm-spec": "^1.0.0",
     "fs-extra": "^0.30.0",
     "glob": "^7.0.5",
     "ipfs": "^0.14.3",
